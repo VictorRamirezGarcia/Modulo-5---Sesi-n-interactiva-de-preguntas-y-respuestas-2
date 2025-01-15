@@ -38,7 +38,7 @@ Instalaci�n
 
 Clona este repositorio:
 
-git clone https://github.com/VictorRamirezGarcia/Modulo-4---Discusion-y-Analisis-de-Casos.git
+git clone https://github.com/VictorRamirezGarcia/Modulo-5---Sesi-n-interactiva-de-preguntas-y-respuestas-2.git
 cd tu-repo
 
 
@@ -145,9 +145,6 @@ En TypeScript, incluso si no se especifica explícitamente el tipo, el compilado
 
 
 
-
-
-
 2. Ejercicio Práctico: Definiendo Tipos e Inferencia (1 punto)
 - En este ejercicio práctico, los estudiantes deberán definir y utilizar tipos en una función
 de ReactJS. Se les proporcionará una función que toma como parámetro datos sobre
@@ -156,7 +153,9 @@ de retorno.
 - Además, se evaluará cómo TypeScript infiere los tipos automáticamente en
 ciertos casos.
 
-Desarrollada en el Visual Code
+Respuesta:
+Desarrollada en el proyecto de Visual Code
+
 
 
 3. Definición de Interfaces y Clases en TypeScript (1 punto)
@@ -166,7 +165,10 @@ obtener información detallada de los doctores del hospital y actualizar su espe
 - Se evaluará si la interfaz y la clase están correctamente definidas y si cumplen
 con las reglas de TypeScript.
 
-Desarrollada en el Visual Code
+Respuesta:
+Desarrollada en el proyecto de Visual Code
+
+
 
 4. TypeScript y ReactJS: Implementación Básica en un Componente
 (1.5 puntos)
@@ -176,7 +178,10 @@ mostrar esta información en la interfaz.
 - Se evaluará el uso de props tipados en TypeScript y la correcta implementación
 de tipos en el componente.
 
-Desarrollada en el Visual Code
+Respuesta:
+Desarrollada en el proyecto de Visual Code
+
+
 
 5. Ventajas de TypeScript en el Desarrollo con ReactJS (1 punto)
 - Se evaluará la comprensión de los estudiantes sobre las ventajas de utilizar TypeScript
